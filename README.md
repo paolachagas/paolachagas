@@ -6,7 +6,7 @@ Olá! sou a Victória mas pode me chamar de Paola.
   
   
 </div>
-<div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" width="190" height="180" src="https://media.giphy.com/media/N4AIdLd0D2A9y/giphy.gif">
